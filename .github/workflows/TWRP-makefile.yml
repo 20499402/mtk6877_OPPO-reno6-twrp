@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/oplus/PEQM00'
+        default: 'device/oppo/PEQM00'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
