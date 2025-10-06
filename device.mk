@@ -1,4 +1,4 @@
-DEVICE_PATH := device/oplus/PEQM00
+DEVICE_PATH := device/oppo/PEQM00
 
 
 BOARD_SHIPPING_API_LEVEL := 31
