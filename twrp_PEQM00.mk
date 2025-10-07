@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/roo
 	$(LOCAL_PATH)/prebuilt/dtb:dtb.img
 	
 
-$(call inherit-product, device/oppo/PEQM00/device.mk)	
+$(call inherit-product, device/OPPO/PEQM00/device.mk)	
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := PEQM00
 PRODUCT_NAME := twrp_PEQM00
